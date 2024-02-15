@@ -1,0 +1,9 @@
+{
+    "name": "Luau",
+    "version": "0.0.1",
+    "authors": [
+        "Jack T <jack@jackt.space>"
+    ],
+    "description": "Support for the Luau language.",
+    "repository": "https://github.com/jackTabsCode/zed-luau"
+}
